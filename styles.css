@@ -806,7 +806,7 @@ p {
   position: absolute;
   left: 0;
   color: var(--gold);
-  content: "â€”";
+  content: "—";
 }
 
 .future {
@@ -1477,4 +1477,3 @@ p {
     transform: none;
   }
 }
-

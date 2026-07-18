@@ -23,4 +23,3 @@ Then open `http://127.0.0.1:4173/` in a browser. Press `Ctrl+C` in the PowerShel
 - Photography is placeholder material; see `CREDITS.md`.
 - The group contact email, operating-company legal names, final business URLs and registration jurisdiction require confirmation before launch.
 - The privacy notice is a review draft, not legal advice.
-

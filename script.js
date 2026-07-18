@@ -108,4 +108,3 @@ if (reduceMotion || !('IntersectionObserver' in window)) {
 
   revealElements.forEach((element) => observer.observe(element));
 }
-

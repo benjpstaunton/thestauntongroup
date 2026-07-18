@@ -17,7 +17,7 @@ The early-years and educational-technology images were downloaded from Pexels on
 ## Early years
 
 - Local file: `assets/images/early-years-placeholder.jpg`
-- Photograph: â€œYoung child playing with wooden blocks and wheels, fostering creativityâ€
+- Photograph: “Young child playing with wooden blocks and wheels, fostering creativity”
 - Creator: Karola G / Kaboompics.com
 - Source: <https://www.pexels.com/photo/child-playing-with-wooden-toys-7269680/>
 - Pexels photo ID: 7269680
@@ -25,7 +25,7 @@ The early-years and educational-technology images were downloaded from Pexels on
 ## Tutorial centre
 
 - Local file: `assets/images/tutorial-placeholder.jpg`
-- Photograph: â€œElderly teacher helps young student with mathâ€
+- Photograph: “Elderly teacher helps young student with math”
 - Creator: Vitaly Gariev
 - Source: <https://unsplash.com/photos/elderly-teacher-helps-young-student-with-math-0WJjFt-LNps>
 - Unsplash photo ID: `0WJjFt-LNps`
@@ -35,7 +35,7 @@ The early-years and educational-technology images were downloaded from Pexels on
 ## Educational technology
 
 - Local file: `assets/images/edtech-placeholder.jpg`
-- Photograph: â€œA child uses a laptop to study online with a tutor, taking notes in a notebookâ€
+- Photograph: “A child uses a laptop to study online with a tutor, taking notes in a notebook”
 - Creator: Katerina Holmes
 - Source: <https://www.pexels.com/photo/cute-smart-black-boy-preparing-for-test-with-teacher-online-5905712/>
 - Pexels photo ID: 5905712
@@ -43,4 +43,3 @@ The early-years and educational-technology images were downloaded from Pexels on
 ## Usage note
 
 The appearance of identifiable people in these stock photographs does not imply their endorsement of The Staunton Group or any related education business.
-
