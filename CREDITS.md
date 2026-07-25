@@ -8,29 +8,29 @@
 - Licence: SIL Open Font License 1.1
 - Local licence copy: `assets/fonts/Manrope-OFL.txt`
 
-## Placeholder photography
+## Photography
 
-These images are included only as design placeholders. They should be approved or replaced before the website is launched publicly.
+The educational-technology image remains a design placeholder. The early-years and academic-tuition images are photographs supplied for use by The Staunton Group, except for the Red Arrows photograph credited separately below.
 
-The early-years and educational-technology images were downloaded from Pexels on 17 July 2026. Pexels states that its photos may be downloaded and used for free, including on websites, and that attribution is not required. Licence: <https://www.pexels.com/license/>
+The educational-technology image was downloaded from Pexels on 17 July 2026. Pexels states that its photos may be downloaded and used for free, including on websites, and that attribution is not required. Licence: <https://www.pexels.com/license/>
 
 ## Early years
 
-- Local file: `assets/images/early-years-placeholder.jpg`
-- Photograph: “Young child playing with wooden blocks and wheels, fostering creativity”
-- Creator: Karola G / Kaboompics.com
-- Source: <https://www.pexels.com/photo/child-playing-with-wooden-toys-7269680/>
-- Pexels photo ID: 7269680
+- Local file: `assets/images/red-arrows-flypast.jpg`
+- Photograph: The Red Arrows flying over Staunton Montessori Nursery School
+- Source: <https://www.newarkadvertiser.co.uk/news/children-in-awe-over-red-arrows-fly-past-9043332/>
+- Publisher: Newark Advertiser
+
+- Local file: `assets/images/early-years-bear-group.jpg`
+- Photograph supplied by The Staunton Group
 
 ## Tutorial centre
 
-- Local file: `assets/images/tutorial-placeholder.jpg`
-- Photograph: “Elderly teacher helps young student with math”
-- Creator: Vitaly Gariev
-- Source: <https://unsplash.com/photos/elderly-teacher-helps-young-student-with-math-0WJjFt-LNps>
-- Unsplash photo ID: `0WJjFt-LNps`
-- Downloaded: 18 July 2026
-- Licence: <https://unsplash.com/license>
+- Local file: `assets/images/students-at-desks.jpg`
+- Photograph supplied by The Staunton Group
+
+- Local file: `assets/images/rob-tutoring-group.jpg`
+- Photograph supplied by The Staunton Group
 
 ## Educational technology
 
@@ -42,4 +42,4 @@ The early-years and educational-technology images were downloaded from Pexels on
 
 ## Usage note
 
-The appearance of identifiable people in these stock photographs does not imply their endorsement of The Staunton Group or any related education business.
+The appearance of the identifiable person in the remaining stock photograph does not imply endorsement of The Staunton Group or any related education business.

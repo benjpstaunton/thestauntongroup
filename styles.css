@@ -497,6 +497,16 @@ p {
   background: #d7d0c3;
 }
 
+.hero-photo-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-photo-link:focus-visible {
+  outline-offset: -4px;
+}
+
 .hero-photo-main {
   grid-row: 1 / -1;
 }
@@ -514,11 +524,11 @@ p {
 }
 
 .hero-photo-main img {
-  object-position: 48% center;
+  object-position: 50% 24%;
 }
 
 .hero-photo-top img {
-  object-position: 52% center;
+  object-position: 50% 54%;
 }
 
 .hero-photo-bottom img {
@@ -683,6 +693,16 @@ p {
 
 .business-image:hover img {
   transform: scale(1.025);
+}
+
+.business-image.business-image-early-years {
+  height: auto;
+  aspect-ratio: 1618 / 984;
+}
+
+.business-image.business-image-tutorial {
+  height: auto;
+  aspect-ratio: 2 / 1;
 }
 
 .business-card:first-child .business-image img {
