@@ -10,9 +10,7 @@
 
 ## Photography
 
-The educational-technology image remains a design placeholder. The early-years and academic-tuition images are photographs supplied for use by The Staunton Group, except for the Red Arrows photograph credited separately below.
-
-The educational-technology image was downloaded from Pexels on 17 July 2026. Pexels states that its photos may be downloaded and used for free, including on websites, and that attribution is not required. Licence: <https://www.pexels.com/license/>
+The early-years, academic-tuition, educational-technology and leadership images are photographs supplied for use by The Staunton Group, except for the Red Arrows photograph credited separately below.
 
 ## Early years
 
@@ -34,12 +32,12 @@ The educational-technology image was downloaded from Pexels on 17 July 2026. Pex
 
 ## Educational technology
 
-- Local file: `assets/images/edtech-placeholder.jpg`
-- Photograph: “A child uses a laptop to study online with a tutor, taking notes in a notebook”
-- Creator: Katerina Holmes
-- Source: <https://www.pexels.com/photo/cute-smart-black-boy-preparing-for-test-with-teacher-online-5905712/>
-- Pexels photo ID: 5905712
+- Local file: `assets/images/learning-technology-online-lesson.webp`
+- Photograph supplied by The Staunton Group
 
-## Usage note
+## Leadership
 
-The appearance of the identifiable person in the remaining stock photograph does not imply endorsement of The Staunton Group or any related education business.
+- Local file: `assets/images/robert-staunton.webp`
+- Local file: `assets/images/adrienne-staunton.webp`
+- Local file: `assets/images/ben-staunton.webp`
+- Portraits supplied by The Staunton Group
