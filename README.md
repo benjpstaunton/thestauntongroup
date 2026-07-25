@@ -20,6 +20,6 @@ Then open `http://127.0.0.1:4173/` in a browser. Press `Ctrl+C` in the PowerShel
 
 - Search indexing is disabled with `noindex` metadata.
 - No analytics, advertising scripts or non-essential cookies are present.
-- The educational-technology photograph remains placeholder material; see `CREDITS.md`.
+- The education and leadership photographs have been supplied for use by The Staunton Group, except for the separately credited Red Arrows photograph.
 - The group contact email, operating-company legal names, final business URLs and registration jurisdiction require confirmation before launch.
 - The privacy notice is a review draft, not legal advice.

@@ -1,5 +1,6 @@
 const menuToggle = document.querySelector('[data-menu-toggle]');
 const navigation = document.querySelector('[data-navigation]');
+const scrollTargetLinks = [...document.querySelectorAll('[data-scroll-target]')];
 
 function closeNavigation() {
   if (!menuToggle || !navigation) return;
@@ -18,13 +19,32 @@ if (menuToggle && navigation) {
     document.body.classList.toggle('nav-open', !isOpen);
   });
 
-  navigation.querySelectorAll('a').forEach((link) => {
-    link.addEventListener('click', closeNavigation);
-  });
-
   document.addEventListener('keydown', (event) => {
     if (event.key === 'Escape') closeNavigation();
   });
+}
+
+scrollTargetLinks.forEach((link) => {
+  link.addEventListener('click', (event) => {
+    const target = document.getElementById(link.dataset.scrollTarget);
+    if (!target) return;
+
+    event.preventDefault();
+    closeNavigation();
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    window.history.replaceState({}, '', '/');
+  });
+});
+
+if (window.location.hash) {
+  const legacyTarget = document.querySelector(window.location.hash);
+
+  if (legacyTarget) {
+    window.requestAnimationFrame(() => {
+      legacyTarget.scrollIntoView({ block: 'start' });
+      window.history.replaceState({}, '', '/');
+    });
+  }
 }
 
 document.querySelectorAll('[data-year]').forEach((element) => {
@@ -35,7 +55,7 @@ const header = document.querySelector('[data-header]');
 const scrollProgress = document.querySelector('[data-scroll-progress]');
 const sectionLinks = [...document.querySelectorAll('[data-section-link]')];
 const trackedSections = sectionLinks
-  .map((link) => document.querySelector(link.getAttribute('href')))
+  .map((link) => document.getElementById(link.dataset.scrollTarget))
   .filter(Boolean);
 let scrollUpdateQueued = false;
 
@@ -67,7 +87,7 @@ function updateScrollAnnotations() {
   }
 
   sectionLinks.forEach((link) => {
-    const isCurrent = currentSection && link.getAttribute('href') === `#${currentSection.id}`;
+    const isCurrent = currentSection && link.dataset.scrollTarget === currentSection.id;
     link.classList.toggle('is-current', Boolean(isCurrent));
 
     if (isCurrent) {
