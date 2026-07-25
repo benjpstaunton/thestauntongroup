@@ -37,7 +37,7 @@ The early-years, academic-tuition, educational-technology and leadership images 
 
 ## Leadership
 
-- Local file: `assets/images/robert-staunton.webp`
-- Local file: `assets/images/adrienne-staunton.webp`
-- Local file: `assets/images/ben-staunton.webp`
+- Local file: `assets/images/robert-staunton.png`
+- Local file: `assets/images/adrienne-staunton.png`
+- Local file: `assets/images/ben-staunton.png`
 - Portraits supplied by The Staunton Group
