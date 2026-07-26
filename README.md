@@ -18,7 +18,7 @@ Then open `http://127.0.0.1:4173/` in a browser. Press `Ctrl+C` in the PowerShel
 
 ## Important preview status
 
-- Search indexing is disabled with `noindex` metadata.
+- Search indexing is enabled and the site includes canonical metadata, a robots file and a sitemap.
 - No analytics, advertising scripts or non-essential cookies are present.
 - The education and leadership photographs have been supplied for use by The Staunton Group, except for the separately credited Red Arrows photograph.
 - The group contact email, operating-company legal names, final business URLs and registration jurisdiction require confirmation before launch.
